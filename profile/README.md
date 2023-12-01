@@ -1,6 +1,6 @@
 ![BTCdata Banner](https://github.com/btcdata/Branding/blob/main/BTCdata-Master-2000x700tagline%20v2-croppedtight.png?raw=true)
 
-## Hi there 👋
+## Welcome 👋
 
 <!--
 
